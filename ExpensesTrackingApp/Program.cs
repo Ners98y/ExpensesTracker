@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Logic logic = new Logic();
-            logic.ControlLoop();
+            App app = new App();
+            app.ControlLoop();
         }
     }
 }
