@@ -2,7 +2,7 @@
 
 namespace ExpensesTrackingApp
 {
-    public class Logic
+    public class App
     {
         private ExpensesManager _expensesManager = new ExpensesManager();
         private ConsoleReader _consoleReader = new ConsoleReader();
